@@ -13,5 +13,6 @@ step 7 reading the data for changed sample selection
 step 8 refreshing te bar and bubble chart with newly selected sample's corresponding data
 step9 refreshing the metadata value for the changed sample selection.
 
-adding link to the webpage that is deploying the results:  Link: https://smuthu03.github.io/Belly-Button-Biodiversity-dataset/
+adding link to the webpage that is deploying the results:  Link: **https://smuthu03.github.io/Belly-Button-Biodiversity-dataSets/**
+
 
